@@ -1,0 +1,3153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\dbCompanyTest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\dbCompanyTest.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\TV Color.mp4",
+      "PackagePath": "staticwebassets\\3d\\TV Color.mp4"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\Untitled.mp4",
+      "PackagePath": "staticwebassets\\3d\\Untitled.mp4"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\pc01.mp4",
+      "PackagePath": "staticwebassets\\3d\\pc01.mp4"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\pc02.mp4",
+      "PackagePath": "staticwebassets\\3d\\pc02.mp4"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\cheesecake.glb",
+      "PackagePath": "staticwebassets\\3d\\shiba\\cheesecake.glb"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\license.txt",
+      "PackagePath": "staticwebassets\\3d\\shiba\\license.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\scene.bin",
+      "PackagePath": "staticwebassets\\3d\\shiba\\scene.bin"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\scene.gltf",
+      "PackagePath": "staticwebassets\\3d\\shiba\\scene.gltf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\beige_baseColor.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\beige_baseColor.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\beige_metallicRoughness.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\beige_metallicRoughness.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\beige_normal.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\beige_normal.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\eyebrows_baseColor.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\eyebrows_baseColor.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\eyebrows_metallicRoughness.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\eyebrows_metallicRoughness.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\eyebrows_normal.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\eyebrows_normal.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\white_baseColor.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\white_baseColor.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\white_metallicRoughness.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\white_metallicRoughness.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\shiba\\textures\\white_normal.png",
+      "PackagePath": "staticwebassets\\3d\\shiba\\textures\\white_normal.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\3d\\videoplayback.mp4",
+      "PackagePath": "staticwebassets\\3d\\videoplayback.mp4"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables.zip",
+      "PackagePath": "staticwebassets\\DataTables.zip"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\DataTables-1.13.2\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.2\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230120.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230120.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230121.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230121.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230131.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230131.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230203.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230203.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230205.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230205.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230209.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230209.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\Client20230211.xls",
+      "PackagePath": "staticwebassets\\Datas\\Client20230211.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\TempUp.xls",
+      "PackagePath": "staticwebassets\\Datas\\TempUp.xls"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\excel",
+      "PackagePath": "staticwebassets\\Datas"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Datas\\taiwan_districts.js",
+      "PackagePath": "staticwebassets\\Datas\\taiwan_districts.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\061f6d67-24d8-4111-8af9-f310f939c559.pdf",
+      "PackagePath": "staticwebassets\\File\\061f6d67-24d8-4111-8af9-f310f939c559.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\0b9a85d5-a05a-433c-b91b-3ad93c10d8f9.pdf",
+      "PackagePath": "staticwebassets\\File\\0b9a85d5-a05a-433c-b91b-3ad93c10d8f9.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\23db0316-c46d-41b9-982f-dad576b71158.pdf",
+      "PackagePath": "staticwebassets\\File\\23db0316-c46d-41b9-982f-dad576b71158.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\3d563464-4710-456c-9141-26d3aa32f555.pdf",
+      "PackagePath": "staticwebassets\\File\\3d563464-4710-456c-9141-26d3aa32f555.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\47d15ff9-3fb5-44dc-9913-c081ab925c11.pdf",
+      "PackagePath": "staticwebassets\\File\\47d15ff9-3fb5-44dc-9913-c081ab925c11.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\5e8bb23a-544e-4549-a897-93c459dfa7b3.pdf",
+      "PackagePath": "staticwebassets\\File\\5e8bb23a-544e-4549-a897-93c459dfa7b3.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\5efdfa3f-786f-490b-bc11-648b93ccaad0.pdf",
+      "PackagePath": "staticwebassets\\File\\5efdfa3f-786f-490b-bc11-648b93ccaad0.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\5f302117-3018-4874-81f8-a63d7f15f342.pdf",
+      "PackagePath": "staticwebassets\\File\\5f302117-3018-4874-81f8-a63d7f15f342.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\62999c3f-5641-404c-a185-419642694190.pdf",
+      "PackagePath": "staticwebassets\\File\\62999c3f-5641-404c-a185-419642694190.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\78474c01-2463-4d50-a57a-9a8c4b4dd260.pdf",
+      "PackagePath": "staticwebassets\\File\\78474c01-2463-4d50-a57a-9a8c4b4dd260.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\7eb6c131-94c2-428d-a3e9-79f5e19010da.pdf",
+      "PackagePath": "staticwebassets\\File\\7eb6c131-94c2-428d-a3e9-79f5e19010da.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\8447784f-6d56-495e-8dd4-61f2c4a49a37.pdf",
+      "PackagePath": "staticwebassets\\File\\8447784f-6d56-495e-8dd4-61f2c4a49a37.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\92c1068d-9f8e-4222-98a3-fd0b49ad41cf.pdf",
+      "PackagePath": "staticwebassets\\File\\92c1068d-9f8e-4222-98a3-fd0b49ad41cf.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\98f70a8e-7c7e-41d5-b5eb-98967d3f92cf.pdf",
+      "PackagePath": "staticwebassets\\File\\98f70a8e-7c7e-41d5-b5eb-98967d3f92cf.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\a1d09a05-fec2-453f-a7c9-94c59510e462.pdf",
+      "PackagePath": "staticwebassets\\File\\a1d09a05-fec2-453f-a7c9-94c59510e462.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\aad47424-22d8-437e-b14c-5429693a92aa.pdf",
+      "PackagePath": "staticwebassets\\File\\aad47424-22d8-437e-b14c-5429693a92aa.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\b1a6e575-88cc-4733-8efc-cd46b4fb777b.pdf",
+      "PackagePath": "staticwebassets\\File\\b1a6e575-88cc-4733-8efc-cd46b4fb777b.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\b3cac57c-5205-43c8-9541-1c1bd46dc3db.pdf",
+      "PackagePath": "staticwebassets\\File\\b3cac57c-5205-43c8-9541-1c1bd46dc3db.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\b64e0597-010b-4c2c-ae44-ce88197ef64e.pdf",
+      "PackagePath": "staticwebassets\\File\\b64e0597-010b-4c2c-ae44-ce88197ef64e.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\ba191721-48e3-4360-8113-ae879d943c45.pdf",
+      "PackagePath": "staticwebassets\\File\\ba191721-48e3-4360-8113-ae879d943c45.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\bd89a43d-27c9-41e2-b263-6ca26e82b009.pdf",
+      "PackagePath": "staticwebassets\\File\\bd89a43d-27c9-41e2-b263-6ca26e82b009.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\c31d7b82-42ca-498b-a63d-00fe5ab6cbbb.pdf",
+      "PackagePath": "staticwebassets\\File\\c31d7b82-42ca-498b-a63d-00fe5ab6cbbb.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\c5dcafbe-9b38-4022-9ded-411714956705.pdf",
+      "PackagePath": "staticwebassets\\File\\c5dcafbe-9b38-4022-9ded-411714956705.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\c97ea01a-9d5e-460b-8fd8-f64867206b45.pdf",
+      "PackagePath": "staticwebassets\\File\\c97ea01a-9d5e-460b-8fd8-f64867206b45.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\d0bed45d-840c-43ae-94c7-cfad7d81f500.pdf",
+      "PackagePath": "staticwebassets\\File\\d0bed45d-840c-43ae-94c7-cfad7d81f500.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\d0e33e32-cbbd-45cc-8e67-9e6201c02925.pdf",
+      "PackagePath": "staticwebassets\\File\\d0e33e32-cbbd-45cc-8e67-9e6201c02925.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\d3bf3eb7-7bb8-4db1-b937-a13b3aa22bd3.pdf",
+      "PackagePath": "staticwebassets\\File\\d3bf3eb7-7bb8-4db1-b937-a13b3aa22bd3.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\d55ebd56-d29f-48d0-97d9-b0a6a3a7cb17.pdf",
+      "PackagePath": "staticwebassets\\File\\d55ebd56-d29f-48d0-97d9-b0a6a3a7cb17.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\d66410db-8ae2-4e17-aa82-b61d200744d7.pdf",
+      "PackagePath": "staticwebassets\\File\\d66410db-8ae2-4e17-aa82-b61d200744d7.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\dea8a696-47a1-433a-b952-ed9b9bd16e32.pdf",
+      "PackagePath": "staticwebassets\\File\\dea8a696-47a1-433a-b952-ed9b9bd16e32.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\e17f77e2-7e08-474b-b16f-6ab0f94d1e6d.pdf",
+      "PackagePath": "staticwebassets\\File\\e17f77e2-7e08-474b-b16f-6ab0f94d1e6d.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\e54373e9-29b7-455d-a974-75e0e46bbff6.pdf",
+      "PackagePath": "staticwebassets\\File\\e54373e9-29b7-455d-a974-75e0e46bbff6.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\e56f36a2-c0c9-4c23-84a5-e1ca074f9796.pdf",
+      "PackagePath": "staticwebassets\\File\\e56f36a2-c0c9-4c23-84a5-e1ca074f9796.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\e99f8f34-19ef-4ac8-908a-ccfed83179a2.pdf",
+      "PackagePath": "staticwebassets\\File\\e99f8f34-19ef-4ac8-908a-ccfed83179a2.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\ee0b4ae7-1684-486f-8413-62b3d41a8e54.pdf",
+      "PackagePath": "staticwebassets\\File\\ee0b4ae7-1684-486f-8413-62b3d41a8e54.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\f4932c19-6214-472d-acfa-c1ae8fe42c61.pdf",
+      "PackagePath": "staticwebassets\\File\\f4932c19-6214-472d-acfa-c1ae8fe42c61.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\f7fc8165-dc66-41d6-aa44-1d0aad4a7558.pdf",
+      "PackagePath": "staticwebassets\\File\\f7fc8165-dc66-41d6-aa44-1d0aad4a7558.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\fa9d1f89-446f-4413-8383-562226d1ba19.pdf",
+      "PackagePath": "staticwebassets\\File\\fa9d1f89-446f-4413-8383-562226d1ba19.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\fc070b8e-cef1-44fa-9aa6-77a5c05b9ead.pdf",
+      "PackagePath": "staticwebassets\\File\\fc070b8e-cef1-44fa-9aa6-77a5c05b9ead.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\ff417eb2-4fa8-4c3c-8083-5e0369451df3.pdf",
+      "PackagePath": "staticwebassets\\File\\ff417eb2-4fa8-4c3c-8083-5e0369451df3.pdf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\File\\htmlTemplate.html",
+      "PackagePath": "staticwebassets\\File\\htmlTemplate.html"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-0008797.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-0008797.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-0009777.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-0009777.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-0011543.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-0011543.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-0011587.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-0011587.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-0011854.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-0011854.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00596.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00596.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00597.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00597.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00628.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00628.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00668.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00668.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00688.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00688.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST1-00837.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST1-00837.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST2-0010170.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST2-0010170.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\ST2-00567.jpg",
+      "PackagePath": "staticwebassets\\Sign\\ST2-00567.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\Sign\\空白.jpg",
+      "PackagePath": "staticwebassets\\Sign\\空白.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\man.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\man.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\avatars\\woman.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\woman.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\app.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\app.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\app.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\icon_js\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\icon_js\\js\\app.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Back_Product.css",
+      "PackagePath": "staticwebassets\\css\\Back_Product.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Car.css",
+      "PackagePath": "staticwebassets\\css\\Car.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\ClientIndex.css",
+      "PackagePath": "staticwebassets\\css\\ClientIndex.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\HomePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\LoginPage.css",
+      "PackagePath": "staticwebassets\\css\\LoginPage.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\MBindex.css",
+      "PackagePath": "staticwebassets\\css\\MBindex.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Mychat.css",
+      "PackagePath": "staticwebassets\\css\\Mychat.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Order.css",
+      "PackagePath": "staticwebassets\\css\\Order.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\OrderFinish.css",
+      "PackagePath": "staticwebassets\\css\\OrderFinish.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\ProductDetail.css",
+      "PackagePath": "staticwebassets\\css\\ProductDetail.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\ProductWall.css",
+      "PackagePath": "staticwebassets\\css\\ProductWall.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Service.css",
+      "PackagePath": "staticwebassets\\css\\Service.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\Shopping.css",
+      "PackagePath": "staticwebassets\\css\\Shopping.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\donutstyle.css",
+      "PackagePath": "staticwebassets\\css\\donutstyle.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\favorites.css",
+      "PackagePath": "staticwebassets\\css\\favorites.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\htmleaf-demo.css",
+      "PackagePath": "staticwebassets\\css\\htmleaf-demo.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\model.css",
+      "PackagePath": "staticwebassets\\css\\model.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\staff_login.css",
+      "PackagePath": "staticwebassets\\css\\staff_login.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Group 3.png",
+      "PackagePath": "staticwebassets\\homeImg\\Group 3.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\MBCard.png",
+      "PackagePath": "staticwebassets\\homeImg\\MBCard.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Mask group-1.png",
+      "PackagePath": "staticwebassets\\homeImg\\Mask group-1.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Mask group-2.png",
+      "PackagePath": "staticwebassets\\homeImg\\Mask group-2.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Mask group.png",
+      "PackagePath": "staticwebassets\\homeImg\\Mask group.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\OK.png",
+      "PackagePath": "staticwebassets\\homeImg\\OK.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\OpenAI_Logo.png",
+      "PackagePath": "staticwebassets\\homeImg\\OpenAI_Logo.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Shoespace-w.png",
+      "PackagePath": "staticwebassets\\homeImg\\Shoespace-w.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Shoespace.png",
+      "PackagePath": "staticwebassets\\homeImg\\Shoespace.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Shoespace1.png",
+      "PackagePath": "staticwebassets\\homeImg\\Shoespace1.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\Shoespace2.png",
+      "PackagePath": "staticwebassets\\homeImg\\Shoespace2.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\back-top.png",
+      "PackagePath": "staticwebassets\\homeImg\\back-top.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\barcode (1).jpg",
+      "PackagePath": "staticwebassets\\homeImg\\barcode (1).jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\chatlogo.png",
+      "PackagePath": "staticwebassets\\homeImg\\chatlogo.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\checked.png",
+      "PackagePath": "staticwebassets\\homeImg\\checked.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\clt1.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\clt1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\clt2.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\clt2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\clt3.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\clt3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\clt4.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\clt4.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\collect_bot (1).png",
+      "PackagePath": "staticwebassets\\homeImg\\collect_bot (1).png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\collect_pc.png",
+      "PackagePath": "staticwebassets\\homeImg\\collect_pc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\discount_grid_icon.png",
+      "PackagePath": "staticwebassets\\homeImg\\discount_grid_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\down_arrow_icon.png",
+      "PackagePath": "staticwebassets\\homeImg\\down_arrow_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\h0.png",
+      "PackagePath": "staticwebassets\\homeImg\\h0.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\h1.png",
+      "PackagePath": "staticwebassets\\homeImg\\h1.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\h2.png",
+      "PackagePath": "staticwebassets\\homeImg\\h2.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\h3.png",
+      "PackagePath": "staticwebassets\\homeImg\\h3.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\icon.ico",
+      "PackagePath": "staticwebassets\\homeImg\\icon.ico"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\idecide.svg",
+      "PackagePath": "staticwebassets\\homeImg\\idecide.svg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\login_out.png",
+      "PackagePath": "staticwebassets\\homeImg\\login_out.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\menu.png",
+      "PackagePath": "staticwebassets\\homeImg\\menu.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\myvibe.svg",
+      "PackagePath": "staticwebassets\\homeImg\\myvibe.svg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\order_grid_icon.png",
+      "PackagePath": "staticwebassets\\homeImg\\order_grid_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\pc01_1.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\pc01_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\pc01_2.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\pc01_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\pc01_3.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\pc01_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\pc01_4.jpg",
+      "PackagePath": "staticwebassets\\homeImg\\pc01_4.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\repassword.png",
+      "PackagePath": "staticwebassets\\homeImg\\repassword.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\search_header_pc.png",
+      "PackagePath": "staticwebassets\\homeImg\\search_header_pc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\shopping_cart (1).png",
+      "PackagePath": "staticwebassets\\homeImg\\shopping_cart (1).png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\shopping_cart_pc.png",
+      "PackagePath": "staticwebassets\\homeImg\\shopping_cart_pc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\sign_bot (1).png",
+      "PackagePath": "staticwebassets\\homeImg\\sign_bot (1).png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\sign_pc.png",
+      "PackagePath": "staticwebassets\\homeImg\\sign_pc.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\success.png",
+      "PackagePath": "staticwebassets\\homeImg\\success.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\up_arrow_icon.png",
+      "PackagePath": "staticwebassets\\homeImg\\up_arrow_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\vip_grid_icon.png",
+      "PackagePath": "staticwebassets\\homeImg\\vip_grid_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\vip_manage_bot (1).png",
+      "PackagePath": "staticwebassets\\homeImg\\vip_manage_bot (1).png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\homeImg\\後台.png",
+      "PackagePath": "staticwebassets\\homeImg\\後台.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_72YFV8JY_2.jpg",
+      "PackagePath": "staticwebassets\\images\\10_72YFV8JY_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_72YFV8JY_3.jpg",
+      "PackagePath": "staticwebassets\\images\\10_72YFV8JY_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_B7F9HRH3_1.jpg",
+      "PackagePath": "staticwebassets\\images\\10_B7F9HRH3_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_B7F9HRH3_2.jpg",
+      "PackagePath": "staticwebassets\\images\\10_B7F9HRH3_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_B7F9HRH3_3.jpg",
+      "PackagePath": "staticwebassets\\images\\10_B7F9HRH3_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_EAQLHF7M_1.jpg",
+      "PackagePath": "staticwebassets\\images\\10_EAQLHF7M_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_EAQLHF7M_2.jpg",
+      "PackagePath": "staticwebassets\\images\\10_EAQLHF7M_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_EAQLHF7M_3.jpg",
+      "PackagePath": "staticwebassets\\images\\10_EAQLHF7M_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_G6CNBLJ4_1.jpg",
+      "PackagePath": "staticwebassets\\images\\10_G6CNBLJ4_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_G6CNBLJ4_2.jpg",
+      "PackagePath": "staticwebassets\\images\\10_G6CNBLJ4_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\10_G6CNBLJ4_3.jpg",
+      "PackagePath": "staticwebassets\\images\\10_G6CNBLJ4_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_5L59927X_1.jpg",
+      "PackagePath": "staticwebassets\\images\\17_5L59927X_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_5L59927X_2.jpg",
+      "PackagePath": "staticwebassets\\images\\17_5L59927X_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_5L59927X_3.jpg",
+      "PackagePath": "staticwebassets\\images\\17_5L59927X_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_BNS7BARB_2.jpg",
+      "PackagePath": "staticwebassets\\images\\17_BNS7BARB_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_BNS7BARB_3.jpg",
+      "PackagePath": "staticwebassets\\images\\17_BNS7BARB_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_D75QANFF_1.jpg",
+      "PackagePath": "staticwebassets\\images\\17_D75QANFF_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_D75QANFF_2.jpg",
+      "PackagePath": "staticwebassets\\images\\17_D75QANFF_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\17_D75QANFF_3.jpg",
+      "PackagePath": "staticwebassets\\images\\17_D75QANFF_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_6YTKYSHL_1.jpg",
+      "PackagePath": "staticwebassets\\images\\19_6YTKYSHL_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_6YTKYSHL_2.jpg",
+      "PackagePath": "staticwebassets\\images\\19_6YTKYSHL_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_6YTKYSHL_3.jpg",
+      "PackagePath": "staticwebassets\\images\\19_6YTKYSHL_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_CBS55R4R_1.jpg",
+      "PackagePath": "staticwebassets\\images\\19_CBS55R4R_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_G7QLFSS6_2.jpg",
+      "PackagePath": "staticwebassets\\images\\19_G7QLFSS6_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\19_G7QLFSS6_3.jpg",
+      "PackagePath": "staticwebassets\\images\\19_G7QLFSS6_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_7N5KP8HJ_1.jpg",
+      "PackagePath": "staticwebassets\\images\\1_7N5KP8HJ_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_7N5KP8HJ_2.jpg",
+      "PackagePath": "staticwebassets\\images\\1_7N5KP8HJ_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_7N5KP8HJ_3.jpg",
+      "PackagePath": "staticwebassets\\images\\1_7N5KP8HJ_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_AU293M8P_1.jpg",
+      "PackagePath": "staticwebassets\\images\\1_AU293M8P_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_AU293M8P_2.jpg",
+      "PackagePath": "staticwebassets\\images\\1_AU293M8P_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_AU293M8P_3.jpg",
+      "PackagePath": "staticwebassets\\images\\1_AU293M8P_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_E37ZKNRN_1.jpg",
+      "PackagePath": "staticwebassets\\images\\1_E37ZKNRN_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_E37ZKNRN_2.jpg",
+      "PackagePath": "staticwebassets\\images\\1_E37ZKNRN_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_Q5H7J3BA_1.jpg",
+      "PackagePath": "staticwebassets\\images\\1_Q5H7J3BA_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_Q5H7J3BA_2.jpg",
+      "PackagePath": "staticwebassets\\images\\1_Q5H7J3BA_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_Q5H7J3BA_3.jpg",
+      "PackagePath": "staticwebassets\\images\\1_Q5H7J3BA_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_U8HRP5KS_1.jpg",
+      "PackagePath": "staticwebassets\\images\\1_U8HRP5KS_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_U8HRP5KS_2.jpg",
+      "PackagePath": "staticwebassets\\images\\1_U8HRP5KS_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_U8HRP5KS_3.jpg",
+      "PackagePath": "staticwebassets\\images\\1_U8HRP5KS_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\1_WJAK22TH_3.jpg",
+      "PackagePath": "staticwebassets\\images\\1_WJAK22TH_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\211693_bell_icon.png",
+      "PackagePath": "staticwebassets\\images\\211693_bell_icon.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_DTWGSXKL_1.jpg",
+      "PackagePath": "staticwebassets\\images\\21_DTWGSXKL_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_DTWGSXKL_2.jpg",
+      "PackagePath": "staticwebassets\\images\\21_DTWGSXKL_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_DTWGSXKL_3.jpg",
+      "PackagePath": "staticwebassets\\images\\21_DTWGSXKL_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_WMQ96ZPW_1.jpg",
+      "PackagePath": "staticwebassets\\images\\21_WMQ96ZPW_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_WMQ96ZPW_2.jpg",
+      "PackagePath": "staticwebassets\\images\\21_WMQ96ZPW_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_WMQ96ZPW_3.jpg",
+      "PackagePath": "staticwebassets\\images\\21_WMQ96ZPW_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_XJHZLPYA_1.jpg",
+      "PackagePath": "staticwebassets\\images\\21_XJHZLPYA_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_XJHZLPYA_2.jpg",
+      "PackagePath": "staticwebassets\\images\\21_XJHZLPYA_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\21_XJHZLPYA_3.jpg",
+      "PackagePath": "staticwebassets\\images\\21_XJHZLPYA_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\22_DTF8C5KC_2.jpg",
+      "PackagePath": "staticwebassets\\images\\22_DTF8C5KC_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\22_DTF8C5KC_3.jpg",
+      "PackagePath": "staticwebassets\\images\\22_DTF8C5KC_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\22_YH2JV9PD_1.jpg",
+      "PackagePath": "staticwebassets\\images\\22_YH2JV9PD_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\22_YH2JV9PD_2.jpg",
+      "PackagePath": "staticwebassets\\images\\22_YH2JV9PD_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\22_YH2JV9PD_3.jpg",
+      "PackagePath": "staticwebassets\\images\\22_YH2JV9PD_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_CGU68SXV_0.jpg",
+      "PackagePath": "staticwebassets\\images\\23_CGU68SXV_0.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_CGU68SXV_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_CGU68SXV_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_HU5F8M8D_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_HU5F8M8D_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_HU5F8M8D_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_HU5F8M8D_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_HU5F8M8D_3.jpg",
+      "PackagePath": "staticwebassets\\images\\23_HU5F8M8D_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_PXVRESL7_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_PXVRESL7_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_PXVRESL7_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_PXVRESL7_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_PXVRESL7_3.jpg",
+      "PackagePath": "staticwebassets\\images\\23_PXVRESL7_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_QM4CFA7L_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_QM4CFA7L_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_QM4CFA7L_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_QM4CFA7L_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_QM4CFA7L_3.jpg",
+      "PackagePath": "staticwebassets\\images\\23_QM4CFA7L_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_SF9A8X7E_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_SF9A8X7E_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_SF9A8X7E_3.jpg",
+      "PackagePath": "staticwebassets\\images\\23_SF9A8X7E_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_WXUPEYJ7_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_WXUPEYJ7_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_WXUPEYJ7_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_WXUPEYJ7_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_ZM276SFH_1.jpg",
+      "PackagePath": "staticwebassets\\images\\23_ZM276SFH_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_ZM276SFH_2.jpg",
+      "PackagePath": "staticwebassets\\images\\23_ZM276SFH_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\23_ZM276SFH_3.jpg",
+      "PackagePath": "staticwebassets\\images\\23_ZM276SFH_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\24_5T4SRUJQ_1.jpg",
+      "PackagePath": "staticwebassets\\images\\24_5T4SRUJQ_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\24_5T4SRUJQ_2.jpg",
+      "PackagePath": "staticwebassets\\images\\24_5T4SRUJQ_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\24_5T4SRUJQ_3.jpg",
+      "PackagePath": "staticwebassets\\images\\24_5T4SRUJQ_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_6VX2X7SV_1.jpg",
+      "PackagePath": "staticwebassets\\images\\25_6VX2X7SV_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_6VX2X7SV_2.jpg",
+      "PackagePath": "staticwebassets\\images\\25_6VX2X7SV_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_6VX2X7SV_3.jpg",
+      "PackagePath": "staticwebassets\\images\\25_6VX2X7SV_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_AJY5LBVH_1.jpg",
+      "PackagePath": "staticwebassets\\images\\25_AJY5LBVH_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_AJY5LBVH_2.jpg",
+      "PackagePath": "staticwebassets\\images\\25_AJY5LBVH_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_AJY5LBVH_3.jpg",
+      "PackagePath": "staticwebassets\\images\\25_AJY5LBVH_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_DPH6BCB4_2.jpg",
+      "PackagePath": "staticwebassets\\images\\25_DPH6BCB4_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\25_DPH6BCB4_3.jpg",
+      "PackagePath": "staticwebassets\\images\\25_DPH6BCB4_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_4T55KKHS_1.jpg",
+      "PackagePath": "staticwebassets\\images\\26_4T55KKHS_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_4T55KKHS_2.jpg",
+      "PackagePath": "staticwebassets\\images\\26_4T55KKHS_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_4T55KKHS_3.jpg",
+      "PackagePath": "staticwebassets\\images\\26_4T55KKHS_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_6D6V5TUU_1.jpg",
+      "PackagePath": "staticwebassets\\images\\26_6D6V5TUU_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_6D6V5TUU_2.jpg",
+      "PackagePath": "staticwebassets\\images\\26_6D6V5TUU_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_6D6V5TUU_3.jpg",
+      "PackagePath": "staticwebassets\\images\\26_6D6V5TUU_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_CYWADD2C_1.jpg",
+      "PackagePath": "staticwebassets\\images\\26_CYWADD2C_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_CYWADD2C_2.jpg",
+      "PackagePath": "staticwebassets\\images\\26_CYWADD2C_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_CYWADD2C_3.jpg",
+      "PackagePath": "staticwebassets\\images\\26_CYWADD2C_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_V62Q3P79_1.jpg",
+      "PackagePath": "staticwebassets\\images\\26_V62Q3P79_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_V62Q3P79_2.jpg",
+      "PackagePath": "staticwebassets\\images\\26_V62Q3P79_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_V62Q3P79_3.jpg",
+      "PackagePath": "staticwebassets\\images\\26_V62Q3P79_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_Z2LDFV45_1.jpg",
+      "PackagePath": "staticwebassets\\images\\26_Z2LDFV45_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_Z2LDFV45_2.jpg",
+      "PackagePath": "staticwebassets\\images\\26_Z2LDFV45_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\26_Z2LDFV45_3.jpg",
+      "PackagePath": "staticwebassets\\images\\26_Z2LDFV45_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_C4VT4PYB_1.jpg",
+      "PackagePath": "staticwebassets\\images\\27_C4VT4PYB_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_C4VT4PYB_2.jpg",
+      "PackagePath": "staticwebassets\\images\\27_C4VT4PYB_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_C4VT4PYB_3.jpg",
+      "PackagePath": "staticwebassets\\images\\27_C4VT4PYB_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_P2DE9A4A_1.jpg",
+      "PackagePath": "staticwebassets\\images\\27_P2DE9A4A_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_P2DE9A4A_2.jpg",
+      "PackagePath": "staticwebassets\\images\\27_P2DE9A4A_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_P2DE9A4A_3.jpg",
+      "PackagePath": "staticwebassets\\images\\27_P2DE9A4A_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_TADEA7ML_1.jpg",
+      "PackagePath": "staticwebassets\\images\\27_TADEA7ML_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_TADEA7ML_2.jpg",
+      "PackagePath": "staticwebassets\\images\\27_TADEA7ML_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_TADEA7ML_3.jpg",
+      "PackagePath": "staticwebassets\\images\\27_TADEA7ML_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_ZGWZD9CJ_1.jpg",
+      "PackagePath": "staticwebassets\\images\\27_ZGWZD9CJ_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_ZGWZD9CJ_2.jpg",
+      "PackagePath": "staticwebassets\\images\\27_ZGWZD9CJ_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\27_ZGWZD9CJ_3.jpg",
+      "PackagePath": "staticwebassets\\images\\27_ZGWZD9CJ_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\28_M3EE6BVD_1.jpg",
+      "PackagePath": "staticwebassets\\images\\28_M3EE6BVD_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\28_M3EE6BVD_2.jpg",
+      "PackagePath": "staticwebassets\\images\\28_M3EE6BVD_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\28_M3EE6BVD_3.jpg",
+      "PackagePath": "staticwebassets\\images\\28_M3EE6BVD_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\29_BF7HHXEU_1.jpg",
+      "PackagePath": "staticwebassets\\images\\29_BF7HHXEU_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\29_BF7HHXEU_2.jpg",
+      "PackagePath": "staticwebassets\\images\\29_BF7HHXEU_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\29_BF7HHXEU_3.jpg",
+      "PackagePath": "staticwebassets\\images\\29_BF7HHXEU_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_AMEBKK34_1.jpg",
+      "PackagePath": "staticwebassets\\images\\2_AMEBKK34_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_AMEBKK34_2.jpg",
+      "PackagePath": "staticwebassets\\images\\2_AMEBKK34_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_AMEBKK34_3.jpg",
+      "PackagePath": "staticwebassets\\images\\2_AMEBKK34_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_KG676KSB_1.jpg",
+      "PackagePath": "staticwebassets\\images\\2_KG676KSB_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_KG676KSB_2.jpg",
+      "PackagePath": "staticwebassets\\images\\2_KG676KSB_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_KG676KSB_3.jpg",
+      "PackagePath": "staticwebassets\\images\\2_KG676KSB_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_RSNV3ULE_1.jpg",
+      "PackagePath": "staticwebassets\\images\\2_RSNV3ULE_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_RSNV3ULE_2.jpg",
+      "PackagePath": "staticwebassets\\images\\2_RSNV3ULE_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_RSNV3ULE_3.jpg",
+      "PackagePath": "staticwebassets\\images\\2_RSNV3ULE_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_U4LWAJHZ_1.jpg",
+      "PackagePath": "staticwebassets\\images\\2_U4LWAJHZ_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_U4LWAJHZ_2.jpg",
+      "PackagePath": "staticwebassets\\images\\2_U4LWAJHZ_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_U4LWAJHZ_3.jpg",
+      "PackagePath": "staticwebassets\\images\\2_U4LWAJHZ_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_WCNRYKNY_1.jpg",
+      "PackagePath": "staticwebassets\\images\\2_WCNRYKNY_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_WCNRYKNY_2.jpg",
+      "PackagePath": "staticwebassets\\images\\2_WCNRYKNY_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\2_WCNRYKNY_3.jpg",
+      "PackagePath": "staticwebassets\\images\\2_WCNRYKNY_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_B34G8CWA_2.jpg",
+      "PackagePath": "staticwebassets\\images\\30_B34G8CWA_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_B34G8CWA_3.jpg",
+      "PackagePath": "staticwebassets\\images\\30_B34G8CWA_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_CSPDHYMR_1.jpg",
+      "PackagePath": "staticwebassets\\images\\30_CSPDHYMR_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_CSPDHYMR_2.jpg",
+      "PackagePath": "staticwebassets\\images\\30_CSPDHYMR_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_CSPDHYMR_3.jpg",
+      "PackagePath": "staticwebassets\\images\\30_CSPDHYMR_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_JCQSE45M_1.jpg",
+      "PackagePath": "staticwebassets\\images\\30_JCQSE45M_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_JCQSE45M_2.jpg",
+      "PackagePath": "staticwebassets\\images\\30_JCQSE45M_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\30_JCQSE45M_3.jpg",
+      "PackagePath": "staticwebassets\\images\\30_JCQSE45M_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31_J8XYPHJS_1.jpg",
+      "PackagePath": "staticwebassets\\images\\31_J8XYPHJS_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31_J8XYPHJS_2.jpg",
+      "PackagePath": "staticwebassets\\images\\31_J8XYPHJS_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31_J8XYPHJS_3.jpg",
+      "PackagePath": "staticwebassets\\images\\31_J8XYPHJS_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31_MZRNY79J_2.jpg",
+      "PackagePath": "staticwebassets\\images\\31_MZRNY79J_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\31_MZRNY79J_3.jpg",
+      "PackagePath": "staticwebassets\\images\\31_MZRNY79J_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\32_XCUVVZHW_1.jpg",
+      "PackagePath": "staticwebassets\\images\\32_XCUVVZHW_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\32_XCUVVZHW_2.jpg",
+      "PackagePath": "staticwebassets\\images\\32_XCUVVZHW_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\32_XCUVVZHW_3.jpg",
+      "PackagePath": "staticwebassets\\images\\32_XCUVVZHW_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_56T4QXBS_2.jpg",
+      "PackagePath": "staticwebassets\\images\\33_56T4QXBS_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_56T4QXBS_3.jpg",
+      "PackagePath": "staticwebassets\\images\\33_56T4QXBS_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_END54MFV_1.jpg",
+      "PackagePath": "staticwebassets\\images\\33_END54MFV_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_END54MFV_2.jpg",
+      "PackagePath": "staticwebassets\\images\\33_END54MFV_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_END54MFV_3.jpg",
+      "PackagePath": "staticwebassets\\images\\33_END54MFV_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_JWZQ4VFK_1.jpg",
+      "PackagePath": "staticwebassets\\images\\33_JWZQ4VFK_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_JWZQ4VFK_2.jpg",
+      "PackagePath": "staticwebassets\\images\\33_JWZQ4VFK_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\33_JWZQ4VFK_3.jpg",
+      "PackagePath": "staticwebassets\\images\\33_JWZQ4VFK_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\34_XSUZKY2H_1.jpg",
+      "PackagePath": "staticwebassets\\images\\34_XSUZKY2H_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\34_XSUZKY2H_2.jpg",
+      "PackagePath": "staticwebassets\\images\\34_XSUZKY2H_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\34_XSUZKY2H_3.jpg",
+      "PackagePath": "staticwebassets\\images\\34_XSUZKY2H_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\35_SDEZYKNF_1.jpg",
+      "PackagePath": "staticwebassets\\images\\35_SDEZYKNF_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\35_SDEZYKNF_2.jpg",
+      "PackagePath": "staticwebassets\\images\\35_SDEZYKNF_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\35_SDEZYKNF_3.jpg",
+      "PackagePath": "staticwebassets\\images\\35_SDEZYKNF_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BR5UQXB5_1.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BR5UQXB5_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BR5UQXB5_2.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BR5UQXB5_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BR5UQXB5_3.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BR5UQXB5_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BUTJ5EKA_1.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BUTJ5EKA_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BUTJ5EKA_2.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BUTJ5EKA_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\36_BUTJ5EKA_3.jpg",
+      "PackagePath": "staticwebassets\\images\\36_BUTJ5EKA_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\37_3SMHJPWM_1.jpg",
+      "PackagePath": "staticwebassets\\images\\37_3SMHJPWM_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\37_3SMHJPWM_2.jpg",
+      "PackagePath": "staticwebassets\\images\\37_3SMHJPWM_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\37_3SMHJPWM_3.jpg",
+      "PackagePath": "staticwebassets\\images\\37_3SMHJPWM_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\38_8JK3SUUK_1.jpg",
+      "PackagePath": "staticwebassets\\images\\38_8JK3SUUK_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\38_8JK3SUUK_2.jpg",
+      "PackagePath": "staticwebassets\\images\\38_8JK3SUUK_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\38_8JK3SUUK_3.jpg",
+      "PackagePath": "staticwebassets\\images\\38_8JK3SUUK_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\39_2JRYHT7A_1.jpg",
+      "PackagePath": "staticwebassets\\images\\39_2JRYHT7A_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\39_2JRYHT7A_2.jpg",
+      "PackagePath": "staticwebassets\\images\\39_2JRYHT7A_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\39_2JRYHT7A_3.jpg",
+      "PackagePath": "staticwebassets\\images\\39_2JRYHT7A_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_3PM8RKMR_1.jpg",
+      "PackagePath": "staticwebassets\\images\\3_3PM8RKMR_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_3PM8RKMR_2.jpg",
+      "PackagePath": "staticwebassets\\images\\3_3PM8RKMR_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_3PM8RKMR_3.jpg",
+      "PackagePath": "staticwebassets\\images\\3_3PM8RKMR_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_KUJJQGB6_1.jpg",
+      "PackagePath": "staticwebassets\\images\\3_KUJJQGB6_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_KUJJQGB6_2.jpg",
+      "PackagePath": "staticwebassets\\images\\3_KUJJQGB6_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\3_KUJJQGB6_3.jpg",
+      "PackagePath": "staticwebassets\\images\\3_KUJJQGB6_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\404.jpg",
+      "PackagePath": "staticwebassets\\images\\404.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\40_X2E2CEJQ_1.jpg",
+      "PackagePath": "staticwebassets\\images\\40_X2E2CEJQ_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\40_X2E2CEJQ_2.jpg",
+      "PackagePath": "staticwebassets\\images\\40_X2E2CEJQ_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\40_X2E2CEJQ_3.jpg",
+      "PackagePath": "staticwebassets\\images\\40_X2E2CEJQ_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_CGT5MG6M_1.jpg",
+      "PackagePath": "staticwebassets\\images\\41_CGT5MG6M_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_CGT5MG6M_2.jpg",
+      "PackagePath": "staticwebassets\\images\\41_CGT5MG6M_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_CGT5MG6M_3.jpg",
+      "PackagePath": "staticwebassets\\images\\41_CGT5MG6M_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_MQ7PY8AR_1.jpg",
+      "PackagePath": "staticwebassets\\images\\41_MQ7PY8AR_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_MQ7PY8AR_2.jpg",
+      "PackagePath": "staticwebassets\\images\\41_MQ7PY8AR_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\41_MQ7PY8AR_3.jpg",
+      "PackagePath": "staticwebassets\\images\\41_MQ7PY8AR_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\42_TYCA6KHT_1.jpg",
+      "PackagePath": "staticwebassets\\images\\42_TYCA6KHT_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\42_TYCA6KHT_2.jpg",
+      "PackagePath": "staticwebassets\\images\\42_TYCA6KHT_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\42_TYCA6KHT_3.jpg",
+      "PackagePath": "staticwebassets\\images\\42_TYCA6KHT_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_727Z9J3U_1.jpg",
+      "PackagePath": "staticwebassets\\images\\43_727Z9J3U_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_727Z9J3U_2.jpg",
+      "PackagePath": "staticwebassets\\images\\43_727Z9J3U_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_727Z9J3U_3.jpg",
+      "PackagePath": "staticwebassets\\images\\43_727Z9J3U_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_EAHYHFCT_1.jpg",
+      "PackagePath": "staticwebassets\\images\\43_EAHYHFCT_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_EAHYHFCT_2.jpg",
+      "PackagePath": "staticwebassets\\images\\43_EAHYHFCT_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_EAHYHFCT_3.jpg",
+      "PackagePath": "staticwebassets\\images\\43_EAHYHFCT_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_YTH7ZR52_1.jpg",
+      "PackagePath": "staticwebassets\\images\\43_YTH7ZR52_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_YTH7ZR52_2.jpg",
+      "PackagePath": "staticwebassets\\images\\43_YTH7ZR52_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\43_YTH7ZR52_3.jpg",
+      "PackagePath": "staticwebassets\\images\\43_YTH7ZR52_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\44_YUWT2WEC_1.jpg",
+      "PackagePath": "staticwebassets\\images\\44_YUWT2WEC_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\44_YUWT2WEC_2.jpg",
+      "PackagePath": "staticwebassets\\images\\44_YUWT2WEC_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\44_YUWT2WEC_3.jpg",
+      "PackagePath": "staticwebassets\\images\\44_YUWT2WEC_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\45.jpg",
+      "PackagePath": "staticwebassets\\images\\45.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\45_YGDSCCKC_1.jpg",
+      "PackagePath": "staticwebassets\\images\\45_YGDSCCKC_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\45_YGDSCCKC_2.jpg",
+      "PackagePath": "staticwebassets\\images\\45_YGDSCCKC_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\45_YGDSCCKC_3.jpg",
+      "PackagePath": "staticwebassets\\images\\45_YGDSCCKC_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_CNVEX5YC_1.jpg",
+      "PackagePath": "staticwebassets\\images\\46_CNVEX5YC_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_CNVEX5YC_2.jpg",
+      "PackagePath": "staticwebassets\\images\\46_CNVEX5YC_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_CNVEX5YC_3.jpg",
+      "PackagePath": "staticwebassets\\images\\46_CNVEX5YC_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_HSW6VEGD_1.jpg",
+      "PackagePath": "staticwebassets\\images\\46_HSW6VEGD_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_HSW6VEGD_2.jpg",
+      "PackagePath": "staticwebassets\\images\\46_HSW6VEGD_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_HSW6VEGD_3.jpg",
+      "PackagePath": "staticwebassets\\images\\46_HSW6VEGD_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_JXE3QG4P_1.jpg",
+      "PackagePath": "staticwebassets\\images\\46_JXE3QG4P_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_JXE3QG4P_2.jpg",
+      "PackagePath": "staticwebassets\\images\\46_JXE3QG4P_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_JXE3QG4P_3.jpg",
+      "PackagePath": "staticwebassets\\images\\46_JXE3QG4P_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_R6QYBSE5_1.jpg",
+      "PackagePath": "staticwebassets\\images\\46_R6QYBSE5_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_R6QYBSE5_2.jpg",
+      "PackagePath": "staticwebassets\\images\\46_R6QYBSE5_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_R6QYBSE5_3.jpg",
+      "PackagePath": "staticwebassets\\images\\46_R6QYBSE5_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_X9TBDM56_1.jpg",
+      "PackagePath": "staticwebassets\\images\\46_X9TBDM56_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_X9TBDM56_2.jpg",
+      "PackagePath": "staticwebassets\\images\\46_X9TBDM56_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\46_X9TBDM56_3.jpg",
+      "PackagePath": "staticwebassets\\images\\46_X9TBDM56_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\47.jpg",
+      "PackagePath": "staticwebassets\\images\\47.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_89JCZB28_1.jpg",
+      "PackagePath": "staticwebassets\\images\\4_89JCZB28_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_89JCZB28_2.jpg",
+      "PackagePath": "staticwebassets\\images\\4_89JCZB28_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_89JCZB28_3.jpg",
+      "PackagePath": "staticwebassets\\images\\4_89JCZB28_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_LEB8NSDG_1.jpg",
+      "PackagePath": "staticwebassets\\images\\4_LEB8NSDG_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_LEB8NSDG_2.jpg",
+      "PackagePath": "staticwebassets\\images\\4_LEB8NSDG_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_LEB8NSDG_3.jpg",
+      "PackagePath": "staticwebassets\\images\\4_LEB8NSDG_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_U3W5RK5C_1.jpg",
+      "PackagePath": "staticwebassets\\images\\4_U3W5RK5C_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_U3W5RK5C_2.jpg",
+      "PackagePath": "staticwebassets\\images\\4_U3W5RK5C_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\4_U3W5RK5C_3.jpg",
+      "PackagePath": "staticwebassets\\images\\4_U3W5RK5C_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\51.jpg",
+      "PackagePath": "staticwebassets\\images\\51.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_CBE2VTF9_1.jpg",
+      "PackagePath": "staticwebassets\\images\\52_CBE2VTF9_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_CBE2VTF9_2.jpg",
+      "PackagePath": "staticwebassets\\images\\52_CBE2VTF9_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_CBE2VTF9_3.jpg",
+      "PackagePath": "staticwebassets\\images\\52_CBE2VTF9_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_WTHZV77G_1.jpg",
+      "PackagePath": "staticwebassets\\images\\52_WTHZV77G_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_WTHZV77G_2.jpg",
+      "PackagePath": "staticwebassets\\images\\52_WTHZV77G_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_WTHZV77G_3.jpg",
+      "PackagePath": "staticwebassets\\images\\52_WTHZV77G_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_ZTN39EHG_1.jpg",
+      "PackagePath": "staticwebassets\\images\\52_ZTN39EHG_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_ZTN39EHG_2.jpg",
+      "PackagePath": "staticwebassets\\images\\52_ZTN39EHG_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\52_ZTN39EHG_3.jpg",
+      "PackagePath": "staticwebassets\\images\\52_ZTN39EHG_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\53_CLQAH8GT_1.jpg",
+      "PackagePath": "staticwebassets\\images\\53_CLQAH8GT_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\53_CLQAH8GT_2.jpg",
+      "PackagePath": "staticwebassets\\images\\53_CLQAH8GT_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\53_CLQAH8GT_3.jpg",
+      "PackagePath": "staticwebassets\\images\\53_CLQAH8GT_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_8G68E5PF_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_8G68E5PF_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_8G68E5PF_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_8G68E5PF_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_8G68E5PF_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_8G68E5PF_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_968AVJ8J_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_968AVJ8J_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_968AVJ8J_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_968AVJ8J_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_968AVJ8J_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_968AVJ8J_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_GM2WB323_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_GM2WB323_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_GM2WB323_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_GM2WB323_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_GM2WB323_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_GM2WB323_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_HTH82QRG_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_HTH82QRG_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_HTH82QRG_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_HTH82QRG_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_HTH82QRG_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_HTH82QRG_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_LN4QLY53_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_LN4QLY53_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_LN4QLY53_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_LN4QLY53_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_LN4QLY53_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_LN4QLY53_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_RGAHEB87_1.jpg",
+      "PackagePath": "staticwebassets\\images\\54_RGAHEB87_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_RGAHEB87_2.jpg",
+      "PackagePath": "staticwebassets\\images\\54_RGAHEB87_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\54_RGAHEB87_3.jpg",
+      "PackagePath": "staticwebassets\\images\\54_RGAHEB87_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\55.jpg",
+      "PackagePath": "staticwebassets\\images\\55.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\59.jpg",
+      "PackagePath": "staticwebassets\\images\\59.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_7ZNBZYM4_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_7ZNBZYM4_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_FG7HF9VE_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_FG7HF9VE_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_FG7HF9VE_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_FG7HF9VE_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_FG7HF9VE_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_FG7HF9VE_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_G4ESGB9C_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_G4ESGB9C_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_G4ESGB9C_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_G4ESGB9C_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_G4ESGB9C_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_G4ESGB9C_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_JEKVW6D8_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_JEKVW6D8_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_JEKVW6D8_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_JEKVW6D8_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_JEKVW6D8_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_JEKVW6D8_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_MWUGB2T7_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_MWUGB2T7_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_MWUGB2T7_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_MWUGB2T7_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_MWUGB2T7_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_MWUGB2T7_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_SFTWESS3_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_SFTWESS3_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_SFTWESS3_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_SFTWESS3_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_SFTWESS3_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_SFTWESS3_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_TKPYLNGY_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_TKPYLNGY_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_TKPYLNGY_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_TKPYLNGY_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_YKRXGVR8_1.jpg",
+      "PackagePath": "staticwebassets\\images\\5_YKRXGVR8_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_YKRXGVR8_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_YKRXGVR8_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_YKRXGVR8_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_YKRXGVR8_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_YYTRM6E7_2.jpg",
+      "PackagePath": "staticwebassets\\images\\5_YYTRM6E7_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\5_YYTRM6E7_3.jpg",
+      "PackagePath": "staticwebassets\\images\\5_YYTRM6E7_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\63.jpg",
+      "PackagePath": "staticwebassets\\images\\63.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\67.jpg",
+      "PackagePath": "staticwebassets\\images\\67.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_3ER44E63_1.jpg",
+      "PackagePath": "staticwebassets\\images\\6_3ER44E63_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_3ER44E63_2.jpg",
+      "PackagePath": "staticwebassets\\images\\6_3ER44E63_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_3ER44E63_3.jpg",
+      "PackagePath": "staticwebassets\\images\\6_3ER44E63_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_4QFBZRCB_2.jpg",
+      "PackagePath": "staticwebassets\\images\\6_4QFBZRCB_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_4QFBZRCB_3.jpg",
+      "PackagePath": "staticwebassets\\images\\6_4QFBZRCB_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_EMH9FYG7_1.jpg",
+      "PackagePath": "staticwebassets\\images\\6_EMH9FYG7_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_EMH9FYG7_2.jpg",
+      "PackagePath": "staticwebassets\\images\\6_EMH9FYG7_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_EMH9FYG7_3.jpg",
+      "PackagePath": "staticwebassets\\images\\6_EMH9FYG7_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_KJCLS86R_1.jpg",
+      "PackagePath": "staticwebassets\\images\\6_KJCLS86R_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_P87TQ7N9_1.jpg",
+      "PackagePath": "staticwebassets\\images\\6_P87TQ7N9_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_P87TQ7N9_2.jpg",
+      "PackagePath": "staticwebassets\\images\\6_P87TQ7N9_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\6_P87TQ7N9_3.jpg",
+      "PackagePath": "staticwebassets\\images\\6_P87TQ7N9_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\71.jpg",
+      "PackagePath": "staticwebassets\\images\\71.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\73.jpg",
+      "PackagePath": "staticwebassets\\images\\73.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\77.jpg",
+      "PackagePath": "staticwebassets\\images\\77.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\79.jpg",
+      "PackagePath": "staticwebassets\\images\\79.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_MGFNT2EH_1.jpg",
+      "PackagePath": "staticwebassets\\images\\7_MGFNT2EH_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_MGFNT2EH_2.jpg",
+      "PackagePath": "staticwebassets\\images\\7_MGFNT2EH_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_MGFNT2EH_3.jpg",
+      "PackagePath": "staticwebassets\\images\\7_MGFNT2EH_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_ST3ZLJDS_1.jpg",
+      "PackagePath": "staticwebassets\\images\\7_ST3ZLJDS_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_ST3ZLJDS_2.jpg",
+      "PackagePath": "staticwebassets\\images\\7_ST3ZLJDS_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_ST3ZLJDS_3.jpg",
+      "PackagePath": "staticwebassets\\images\\7_ST3ZLJDS_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_WVVGKT94_1.jpg",
+      "PackagePath": "staticwebassets\\images\\7_WVVGKT94_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_WVVGKT94_2.jpg",
+      "PackagePath": "staticwebassets\\images\\7_WVVGKT94_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\7_WVVGKT94_3.jpg",
+      "PackagePath": "staticwebassets\\images\\7_WVVGKT94_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\81.jpg",
+      "PackagePath": "staticwebassets\\images\\81.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\89.jpg",
+      "PackagePath": "staticwebassets\\images\\89.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_2UKGWGEU_1.jpg",
+      "PackagePath": "staticwebassets\\images\\9_2UKGWGEU_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_2UKGWGEU_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_2UKGWGEU_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_2UKGWGEU_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_2UKGWGEU_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5TEMEK3A_1.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5TEMEK3A_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5TEMEK3A_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5TEMEK3A_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5TEMEK3A_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5TEMEK3A_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5VPHXVY3_1.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5VPHXVY3_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5VPHXVY3_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5VPHXVY3_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_5VPHXVY3_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_5VPHXVY3_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_J4RDW3HE_1.jpg",
+      "PackagePath": "staticwebassets\\images\\9_J4RDW3HE_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_J4RDW3HE_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_J4RDW3HE_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_J4RDW3HE_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_J4RDW3HE_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_LUM45QMP_1.jpg",
+      "PackagePath": "staticwebassets\\images\\9_LUM45QMP_1.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_LUM45QMP_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_LUM45QMP_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_LUM45QMP_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_LUM45QMP_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_UKRGCNP6_2.jpg",
+      "PackagePath": "staticwebassets\\images\\9_UKRGCNP6_2.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\9_UKRGCNP6_3.jpg",
+      "PackagePath": "staticwebassets\\images\\9_UKRGCNP6_3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\LoginPage.png",
+      "PackagePath": "staticwebassets\\images\\LoginPage.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\LoginPage2.png",
+      "PackagePath": "staticwebassets\\images\\LoginPage2.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\Rectangle3.png",
+      "PackagePath": "staticwebassets\\images\\Rectangle3.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\10_8R5PYT67.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\10_8R5PYT67.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\10_GHEESMN4.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\10_GHEESMN4.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\11_HBT2KC6Z.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\11_HBT2KC6Z.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\11_YYZZH7EJ.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\11_YYZZH7EJ.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\12_Z4EPHQKZ.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\12_Z4EPHQKZ.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\12_Z5SYAVFN.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\12_Z5SYAVFN.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\16_B665GJMK.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\16_B665GJMK.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\16_JSMUSQF9.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\16_JSMUSQF9.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\17_K89QWU3R.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\17_K89QWU3R.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\17_Y8EULLVW.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\17_Y8EULLVW.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\18_7635S4ZM.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\18_7635S4ZM.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\18_MNFUK8MR.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\18_MNFUK8MR.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\19_SZ4CYGXP.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\19_SZ4CYGXP.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\19_VHWC27P7.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\19_VHWC27P7.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\1_4BBBQ82W.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\1_4BBBQ82W.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\1_PBC7BBQY.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\1_PBC7BBQY.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\1_YUKJ699U.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\1_YUKJ699U.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\20_FM4PJEBN.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\20_FM4PJEBN.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\21_87XYX8RS.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\21_87XYX8RS.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\22_4443JLC6.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\22_4443JLC6.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\23_HKEHFWJW.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\23_HKEHFWJW.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\24_2G4HV9HA.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\24_2G4HV9HA.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\25_HSVP8HHY.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\25_HSVP8HHY.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\26_UZCXWMBZ.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\26_UZCXWMBZ.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\27_9E5AYWA3.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\27_9E5AYWA3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\28_3SS475MM.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\28_3SS475MM.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\29_5ZBSBMZW.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\29_5ZBSBMZW.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\2_KHH5NUKH.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\2_KHH5NUKH.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\2_VXYZ5EJG.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\2_VXYZ5EJG.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\30_PNG6WVVV.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\30_PNG6WVVV.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\31_92BWTKQ3.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\31_92BWTKQ3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\32_DTYS37WG.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\32_DTYS37WG.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\33_TYF4QHEF.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\33_TYF4QHEF.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\34_H8FFZMTR.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\34_H8FFZMTR.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\35_DNRHEX4W.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\35_DNRHEX4W.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\36_QNUM4WFY.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\36_QNUM4WFY.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\3_L5GM568B.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\3_L5GM568B.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\4.png",
+      "PackagePath": "staticwebassets\\images\\colorimg\\4.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\4_DT4M79G3.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\4_DT4M79G3.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\4_TFV88UTE.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\4_TFV88UTE.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\5_7HC6BW28.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\5_7HC6BW28.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\5_VPU4YLH9.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\5_VPU4YLH9.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\6_2A47AET7.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\6_2A47AET7.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\colorimg\\6_MZVH7HJH.jpg",
+      "PackagePath": "staticwebassets\\images\\colorimg\\6_MZVH7HJH.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\dog.jpg",
+      "PackagePath": "staticwebassets\\images\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\image130i111-kbs-300w.png",
+      "PackagePath": "staticwebassets\\images\\image130i111-kbs-300w.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\send.png",
+      "PackagePath": "staticwebassets\\images\\send.png"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\share.jpg",
+      "PackagePath": "staticwebassets\\images\\share.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\share_pic.jpg",
+      "PackagePath": "staticwebassets\\images\\share_pic.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\top.jpg",
+      "PackagePath": "staticwebassets\\images\\top.jpg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\尺寸對照表.jpeg",
+      "PackagePath": "staticwebassets\\images\\尺寸對照表.jpeg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\images\\男鞋尺寸對照表.jpeg",
+      "PackagePath": "staticwebassets\\images\\男鞋尺寸對照表.jpeg"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\AIBOT.js",
+      "PackagePath": "staticwebassets\\js\\AIBOT.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\Car.js",
+      "PackagePath": "staticwebassets\\js\\Car.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\City_Data.js",
+      "PackagePath": "staticwebassets\\js\\City_Data.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\Client.js",
+      "PackagePath": "staticwebassets\\js\\Client.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\LoadPartialSchedule_HR.js",
+      "PackagePath": "staticwebassets\\js\\LoadPartialSchedule_HR.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\LoadPartialSchedule_RG.js",
+      "PackagePath": "staticwebassets\\js\\LoadPartialSchedule_RG.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\LoadSheeplist.js",
+      "PackagePath": "staticwebassets\\js\\LoadSheeplist.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\LoadToDoList.js",
+      "PackagePath": "staticwebassets\\js\\LoadToDoList.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\Mychat.js",
+      "PackagePath": "staticwebassets\\js\\Mychat.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\OrbitControls.js",
+      "PackagePath": "staticwebassets\\js\\OrbitControls.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\Product_Index.js",
+      "PackagePath": "staticwebassets\\js\\Product_Index.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\Product_Index_ProDitail.js",
+      "PackagePath": "staticwebassets\\js\\Product_Index_ProDitail.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\favorites.js",
+      "PackagePath": "staticwebassets\\js\\favorites.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\staffConnect.cs",
+      "PackagePath": "staticwebassets\\js\\staffConnect.cs"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\staffConnect.js",
+      "PackagePath": "staticwebassets\\js\\staffConnect.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\js\\userdatacheck.js",
+      "PackagePath": "staticwebassets\\js\\userdatacheck.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\DOCS.md",
+      "PackagePath": "staticwebassets\\webcam\\DOCS.md"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\LICENSE",
+      "PackagePath": "staticwebassets\\webcam"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\README.md",
+      "PackagePath": "staticwebassets\\webcam\\README.md"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\bower.json",
+      "PackagePath": "staticwebassets\\webcam\\bower.json"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\build.sh",
+      "PackagePath": "staticwebassets\\webcam\\build.sh"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\README.txt",
+      "PackagePath": "staticwebassets\\webcam\\flash\\README.txt"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\Webcam.as",
+      "PackagePath": "staticwebassets\\webcam\\flash\\Webcam.as"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\Webcam.fla",
+      "PackagePath": "staticwebassets\\webcam\\flash\\Webcam.fla"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\com\\adobe\\images\\BitString.as",
+      "PackagePath": "staticwebassets\\webcam\\flash\\com\\adobe\\images\\BitString.as"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\com\\adobe\\images\\JPGEncoder.as",
+      "PackagePath": "staticwebassets\\webcam\\flash\\com\\adobe\\images\\JPGEncoder.as"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\com\\adobe\\images\\PNGEncoder.as",
+      "PackagePath": "staticwebassets\\webcam\\flash\\com\\adobe\\images\\PNGEncoder.as"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\flash\\mx\\utils\\Base64Encoder.as",
+      "PackagePath": "staticwebassets\\webcam\\flash\\mx\\utils\\Base64Encoder.as"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\package.json",
+      "PackagePath": "staticwebassets\\webcam\\package.json"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\webcam.js",
+      "PackagePath": "staticwebassets\\webcam\\webcam.js"
+    },
+    {
+      "Id": "C:\\Git\\Shosesplaces\\dbCompanyTest\\wwwroot\\webcam\\webcam.swf",
+      "PackagePath": "staticwebassets\\webcam\\webcam.swf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.dbCompanyTest.props",
+      "PackagePath": "build\\dbCompanyTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.dbCompanyTest.props",
+      "PackagePath": "buildMultiTargeting\\dbCompanyTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.dbCompanyTest.props",
+      "PackagePath": "buildTransitive\\dbCompanyTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.dbCompanyTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
